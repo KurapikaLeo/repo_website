@@ -25,7 +25,9 @@ export default function About() {
       <p>
         In my free time I love learning about cybersecurity on my own from platforms like <span className='underline'> TCM academy and Try Hack Me</span>. <span className='underline'>I love art</span>, I've participated in competitions and particularly enjoy painting with acrylics and drawing.
         I'm an active member of the <span className='underline'> Krav maga club</span> and I am always open to learn new things!
+        I'm also a member of the <span className='font-medium italic'>Cork/Sec and Women In Cybersecurity</span> organisations.
         My dream is to <span className='underline'> travel the world</span> and explore the wonderful cultures!
+        
       </p>
     </motion.section>
   )
